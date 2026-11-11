@@ -1,7 +1,7 @@
-# Hi 🤙, I'm Aecy
+# Hi ✍, I'm Aecy
 A passionate fullstack developer from **Belgium** 🍻 living in **France** 🥖.
 
-I represent myself as a rocket 🚀 and also a conceptor of virtual product for online games servers.
+I represent myself as a rocket ballon 🚀🎈 and also a conceptor of virtual product for online games servers.
 
 ## 📑 Contact
 [![Overflow](https://img.shields.io/badge/Stackoverflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/15290194)
@@ -55,8 +55,8 @@ But for video games, I've had several game servers created by myself from A to Z
 [![Buy me a coffee](https://img.shields.io/badge/Buy%20me%20coffee-FFDD00?style=for-the-badge&logo=Buy%20Me%20A%20Coffee&logoColor=white)](https://www.buymeacoffee.com/aecy)
 
 ## 🎭 REST
-Last update on `Tue Nov 10 2026`
+Last update on `Wed Nov 11 2026`
 
-🤖 This README.md has been updated with wickedness, by Aecy ❤️
+🤖 This README.md has been updated with pleasure, by Aecy ❤️
 
 ![Visitor Count](https://profile-counter.glitch.me/Aecy/count.svg)
